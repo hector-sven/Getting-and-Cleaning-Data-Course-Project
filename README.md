@@ -21,7 +21,14 @@ tidy.txt - Output file generated using run_analysis.R
 
 ## Execute the script 
 
-The script can be run from *RStudio* after setting the working directory to the local path 
-    
+Pre-requisites 
+1. Have dplyr library installed 
+> install.packages("dplyr")
+
+Steps 
+1. Open *RStudio*
+1. Set your working directory to the local path where the script is located
+2. Extract files into a subfolder within selected working directory called "UCI HAR Dataset"
+3. Execute from prompt
 > source("run_analysis.R")
 
