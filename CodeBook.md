@@ -1,9 +1,11 @@
 # Tidy Data Set Codebook
 
 ## Description
+
 This dataset is a summary of the original dataset from Human Activity Recognition Using Smartphones Data Set.
 
 ## Attribute Information
+
 For each record in the dataset it is provided: 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. 
 - Triaxial Angular velocity from the gyroscope. 
@@ -12,6 +14,7 @@ For each record in the dataset it is provided:
 - An identifier of the subject who carried out the experiment.
 
 ## Keywords
+
 - *Acc*: Acceleromenter
 - *Gyro*: Gyroscope
 - *Time*: Time window average
@@ -23,6 +26,7 @@ For each record in the dataset it is provided:
 - *Gravity*: To indicate gravity signals
 
 ## Column Headers
+
 - *Subject*
 - *Activity*
 - *Time Body Acc Mean X*
